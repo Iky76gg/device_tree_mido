@@ -160,3 +160,8 @@ persist.hwc.enable_vds=1
 
 # Zygote
 zygote.critical_window.minute=10
+
+# Hardware Description
+ro.device.chipset=Snapdragon 625
+ro.device.display_resolution=1920x1080
+ro.device.colorbody_phone=Gray/Gold/Black

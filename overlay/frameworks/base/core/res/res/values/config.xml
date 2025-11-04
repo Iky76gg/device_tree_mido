@@ -507,11 +507,7 @@
 
     <!-- Display low battery warning when battery level dips to this value -->
     <integer name="config_lowBatteryWarningLevel">15</integer>
-
-     <!-- Device info untuk LineageOS -->
-    <string name="config_lineageMaintainer">RizkKuy</string>
-    <string name="config_lineageDevice">Redmi Note 4 (mido)</string>
- 
+    
      <!-- Display low battery warning when battery level dips to this value.
          Also, the battery stats are flushed to disk when we hit this level.  -->
     <integer name="config_criticalBatteryWarningLevel">8</integer>
